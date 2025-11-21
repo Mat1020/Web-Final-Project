@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  padding: 20px;
+}
+
+.press-start {
+  font-family: 'Press Start 2P', sans-serif;
+  color: #333;
+}
+
+.silkscreen {
+  font-family: 'Silkscreen', sans-serif;
+  color: #666;
+}
+
+.belgrano {
+  font-family: 'Belgrano', sans-serif;
+  color: #000000;
+}
+
+body {
+      background-color: #75AFD9;
+}
