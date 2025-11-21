@@ -1,6 +1,8 @@
 body {
+  background-color: #F05656;
   text-align: center;
   padding: 20px;
+  font-family: Arial, sans-serif;
 }
 
 .press-start {
@@ -16,8 +18,4 @@ body {
 .belgrano {
   font-family: 'Belgrano', sans-serif;
   color: #000000;
-}
-
-body {
-      background-color: #F05656;
 }
