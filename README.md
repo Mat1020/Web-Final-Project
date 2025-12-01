@@ -1,7 +1,7 @@
 # Web-Final-Project
 These are my final website projects from both my _Intro to Computer Science_ of 2025-2026 class and _AP Computer Science_ of 2026-2027 class. These final website projects count as my final exam for those classes.
 
-## Status (Unfinished)
+## Status: Unfinished
 As of now, I'm just at my first S1 (semester 1) project for _Intro to Computer Science_; it will eventually get better, and my GitHub repository structure gets better. 
 
 I'm sharing my code with everyone because I'm using GitHub pages to see the real-time website. Talking about GitHub Pages, I'm planning to structure this repository as of branhes for each semes of each class.
