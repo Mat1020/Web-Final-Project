@@ -6,8 +6,9 @@ body {
 
 .press-start {
   font-family: 'Press Start 2P', sans-serif;
-  /* text-decoration: underline; */
+  font-size: 24px;
   text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   color: #000000;
 }
 
