@@ -34,3 +34,27 @@ img {
   align-items: center;
   border-radius: 10px;
 }
+
+.member {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 40px 0;
+}
+
+.member img {
+  width: 250px;
+}
+
+.member-text {
+  text-align: left;
+  max-width: 600px;
+}
+
+.member.left {
+  flex-direction: row;
+}
+
+.member.right {
+  flex-direction: row-reverse;
+}
